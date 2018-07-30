@@ -1,0 +1,24 @@
+{
+  "name": "reggiex",
+  "version": "1.0.0",
+  "description": "A RegEx utility library for simple operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PR0Grammar/reggiEX.git"
+  },
+  "keywords": [
+    "regex",
+    "npm",
+    "utility"
+  ],
+  "author": "Nehal Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PR0Grammar/reggiEX/issues"
+  },
+  "homepage": "https://github.com/PR0Grammar/reggiEX#readme"
+}
