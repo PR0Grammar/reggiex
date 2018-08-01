@@ -11,7 +11,7 @@ function startIndices(subString, string) {
   let indices = [];
 
   while ((reExec = re.exec(string)) !== null) {
-    indices.push(`${reExec.index}`);
+    indices.push(reExec.index);
   }
 
   return indices;
