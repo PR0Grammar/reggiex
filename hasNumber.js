@@ -1,7 +1,7 @@
 /*
   Checks if a string contains at least one digit
 
-  /\d+/g.test('#2')
+  hasNumber('#2') => true
 
 */
 
