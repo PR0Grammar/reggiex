@@ -1,2 +1,2 @@
 # reggiEX
-A RegEx utility library for simple operations
+A RegExp utility library for readable operations
